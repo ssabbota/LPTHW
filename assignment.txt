@@ -1,0 +1,4 @@
+print "What is your last name?"
+last name = raw_input ()
+print "What is your first name?"
+first name = raw_input ()
